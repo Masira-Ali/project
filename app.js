@@ -1,2 +1,1 @@
-// let btn = addEventListener("click", )
-// add -btn
+// let btn = addEventListener("click", ) - badge
